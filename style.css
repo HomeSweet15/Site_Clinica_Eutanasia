@@ -60,6 +60,11 @@ nav {
   color: #4ea8de;
 }
 
+.logo a {
+  text-decoration: none;
+  color: #1d3557;
+}
+
 .menu-toggle {
   display: none;
   font-size: 1.8rem;
